@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.catai.host.app-mergeDebugResources-13:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Divyangi\\.gradle\\caches\\transforms-3\\1b9fb23dec5e2f3e4dd3c0c76b27d34b\\transformed\\appcompat-1.0.2\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
