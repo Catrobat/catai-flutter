@@ -1,0 +1,4 @@
+#Mon Sep 18 19:51:23 IST 2023
+base.0=D\:\\GSOC\\catai\\build\\host\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
